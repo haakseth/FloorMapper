@@ -28,8 +28,8 @@ void setup(){
   kinect.enableDepth();
   kinect.alternativeViewPointDepthToImage();
   
-//Placing the boxes like a "numpad"
-//From the kinect's perspective: x-right, y-up, z-straight ahead
+  //Placing the boxes like a "numpad"
+  //From the kinect's perspective: x-right, y-up, z-straight ahead
   boxCenters = new PVector[8];
   boxCenters[0] = new PVector(-600,-300,1800); 
   boxCenters[1] = new PVector(-600,-300,2300); 

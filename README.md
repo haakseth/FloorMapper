@@ -1,6 +1,8 @@
 FloorMapper
 ===========
 
+Video demo: http://vimeo.com/61521010
+
 Prototypes developed for project work in Geomatics (TBA4560) at NTNU in the fall of 2012.
 
 Everything is developed in Processing using the SimpleOpenNI and Unfolding Maps libraries.

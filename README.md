@@ -9,3 +9,4 @@ Everything is developed in Processing using the SimpleOpenNI and Unfolding Maps 
 
 - Eight Boxes: Visualizes the backend of FloorMapper_box
 - FloorMapper_box: Prototype developed in time for Researcher's Night 2012 at NTNU.
+- FloorMapper_skel: Prototype using skeleton tracking.
